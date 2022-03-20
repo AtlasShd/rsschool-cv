@@ -27,6 +27,7 @@ I constantly improve my programming and languages ​​skills. I see myself as 
 ## **Code-example**
 
 ### *Task from **«Codewars»** - "N-th Fibonacci"*
+Write a function that when given a number (n) returns the n-th number in the Fibonacci Sequence.
 ```
 function nthFibo(n) {
   if (n === 1) {
@@ -38,3 +39,22 @@ function nthFibo(n) {
   }
 }
 ```
+
+## **Projects**
+1. [Museum](https://atlasshd.github.io/museum/) HTML&CSS, JS, mapbox API [Description](https://github.com/AtlasShd/museum)
+2. [Food Shop](https://atlasshd.github.io/museum/) JS, jQuery, JSON, Webpack [Description](https://github.com/AtlasShd/JS-UdemyEd)
+3. [2048 game](https://atlasshd.github.io/museum/) HTML&CSS, JS, localStorage [Description](https://github.com/AtlasShd/2048)
+4. [Movie catalog](https://atlasshd.github.io/museum/) HTML&CSS, JS, movie API [Description](https://github.com/AtlasShd/searchMovies)
+
+## **Courses**
+
+1. Udemy(Febr. 2022 - now) Frontend Developer - React JS + Redux
+2. Udemy(Dec. 2021 - Febr. 2022) Frontend Developer
+3. The Rolling Scopes(Sept. 2021 - Dec. 2021) Web developer - JS, HTML&CSS(SCSS)
+4. CodeBasics(Sept. 2021 - Sept. 2021) HTML5&CSS3
+
+## **Languages**
+
+* Russian - С2
+* English - A2+
+* Français - A1
